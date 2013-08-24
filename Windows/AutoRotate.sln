@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiMonitorHelper", "MultiMonitorHelper\MultiMonitorHelper.csproj", "{8BC32EA5-B325-47D0-94E7-FD60110393C8}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AutoRotate.Tests", "AutoRotate.Tests\AutoRotate.Tests.fsproj", "{15F76506-7EE8-4C41-AA55-1BC459D4E7FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{8BC32EA5-B325-47D0-94E7-FD60110393C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BC32EA5-B325-47D0-94E7-FD60110393C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BC32EA5-B325-47D0-94E7-FD60110393C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F76506-7EE8-4C41-AA55-1BC459D4E7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F76506-7EE8-4C41-AA55-1BC459D4E7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F76506-7EE8-4C41-AA55-1BC459D4E7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F76506-7EE8-4C41-AA55-1BC459D4E7FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
