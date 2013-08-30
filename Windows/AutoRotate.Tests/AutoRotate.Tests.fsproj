@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="SampleTests.fs" />
+    <Compile Include="SecondaryDisplayTests.fs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MultiMonitorHelper\MultiMonitorHelper.csproj">
